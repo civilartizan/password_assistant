@@ -4,7 +4,7 @@ import json
 import time  # # Module required for timing.
 
 # Specify the name and location of the password.txt file that will be used as database.
-PASSWORDS_FILE = r"C:\Users\ismai\PycharmProjects\password_assistant\passwords.txt"
+PASSWORDS_FILE = r"your_directory/passwords.txt"
 
 def load_passwords():
     try:
