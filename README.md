@@ -32,3 +32,4 @@ Open your terminal and follow the steps below.
   venv\Scripts\activate  # For Windows
 3. Install the required dependencies:
   pip install -r requirements.txt
+4. Change the "PASSWORD" file location manually in main.py
